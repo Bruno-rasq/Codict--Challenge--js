@@ -1,2 +1,7 @@
 # Codict--Challenge--js
- uma série de problemas de javascript para práticar, desde o nivel iniciante ate funções mais avançadas
+
+uma série de 60 desafios ordenados por nivel de dificuldade, com objetivo de práticar programação
+e a linguagem Javascript.
+
+créditos: KlawApps
+App: codict 
